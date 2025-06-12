@@ -1,3 +1,8 @@
 venv
 models
 training
+__pycache__
+connect4_tensorboard
+connect4_selfplay_tensorboard
+connect4_vs_random.zip
+connect4_selfplay_final.zip
